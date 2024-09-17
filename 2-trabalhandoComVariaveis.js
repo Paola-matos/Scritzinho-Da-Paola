@@ -2,7 +2,7 @@
 console.log("trabalhando com variaveis");
 //JS é case sensitive
 
-idade= 29;
-idade= 30;
+const idade= 29;
+const nome = "Paola";
+let ano = 2020;
 
-console
